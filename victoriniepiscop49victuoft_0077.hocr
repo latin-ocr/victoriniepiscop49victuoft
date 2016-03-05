@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./victoriniepiscop49victuoft_0077.png"; bbox 0 0 2470 3718; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 165 1044 2174 1856">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 165 1044 2174 1856">
+     <span class='ocr_line' id='line_1_1' title="bbox 1145 1044 1188 1123; baseline -0.023 0"><span class='ocrx_word' id='word_1_1' title='bbox 1145 1044 1188 1123; x_wconf 92' lang='grc' dir='ltr'>Ι.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 165 1270 2174 1382; baseline -0.011 -5"><span class='ocrx_word' id='word_1_2' title='bbox 165 1291 705 1382; x_wconf 76' lang='lat' dir='ltr'>VICTORINI</span> <span class='ocrx_word' id='word_1_3' title='bbox 772 1282 1257 1370; x_wconf 72' lang='lat' dir='ltr'><strong>EPISCOPI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1324 1270 2174 1362; x_wconf 72' lang='lat' dir='ltr'>PETAVIONENSIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 846 1521 1501 1617; baseline -0.011 -8"><span class='ocrx_word' id='word_1_5' title='bbox 846 1521 1501 1617; x_wconf 72' lang='lat' dir='ltr'>TRACTATVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 548 1759 1805 1856; baseline -0.012 -2"><span class='ocrx_word' id='word_1_6' title='bbox 548 1772 704 1854; x_wconf 75' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_7' title='bbox 792 1764 1313 1856; x_wconf 70' lang='lat' dir='ltr'>FABRICA</span> <span class='ocrx_word' id='word_1_8' title='bbox 1391 1759 1805 1844; x_wconf 76' lang='lat' dir='ltr'>MVNDI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 242 3284 773 3317">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 242 3284 773 3317">
+     <span class='ocr_line' id='line_1_5' title="bbox 242 3284 773 3317; baseline -0.008 0"><span class='ocrx_word' id='word_1_9' title='bbox 242 3286 434 3317; x_wconf 84' lang='lat' dir='ltr'>XXXXIX.</span> <span class='ocrx_word' id='word_1_10' title='bbox 459 3286 585 3316; x_wconf 82' lang='lat' dir='ltr'>Victor</span> <span class='ocrx_word' id='word_1_11' title='bbox 587 3284 773 3315; x_wconf 68' lang='lat' dir='ltr'>ttttttt</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

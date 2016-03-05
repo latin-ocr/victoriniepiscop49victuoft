@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./victoriniepiscop49victuoft_0087.png"; bbox 0 0 2470 3718; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1072 1002 1143 1082">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1072 1002 1143 1082">
+     <span class='ocr_line' id='line_1_1' title="bbox 1072 1002 1143 1082; baseline 0.014 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1072 1002 1143 1082; x_wconf 91' lang='lat'>11.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 185 1224 2030 1489">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 185 1224 2030 1489">
+     <span class='ocr_line' id='line_1_2' title="bbox 185 1224 2030 1316; baseline 0.001 -7"><span class='ocrx_word' id='word_1_2' title='bbox 185 1224 1014 1316; x_wconf 74' lang='lat' dir='ltr'>COMMENTARII</span> <span class='ocrx_word' id='word_1_3' title='bbox 1083 1226 1189 1308; x_wconf 85' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_4' title='bbox 1253 1225 2030 1312; x_wconf 70' lang='lat' dir='ltr'>APOCALYPSIN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 605 1395 1614 1489; baseline 0.003 -13"><span class='ocrx_word' id='word_1_5' title='bbox 605 1395 985 1479; x_wconf 80' lang='lat' dir='ltr'>EDITIO</span> <span class='ocrx_word' id='word_1_6' title='bbox 1051 1396 1614 1489; x_wconf 71' lang='lat' dir='ltr'>VICTORINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 182 1695 2028 2121">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 182 1695 2028 2121">
+     <span class='ocr_line' id='line_1_4' title="bbox 477 1695 1739 1787; baseline -0.007 -1"><span class='ocrx_word' id='word_1_7' title='bbox 477 1695 1047 1786; x_wconf 75' lang='lat' dir='ltr'>RECENSIO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1117 1696 1739 1787; x_wconf 73' lang='lat' dir='ltr'>HIERONYMI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 182 1866 2028 1958; baseline 0.001 -11"><span class='ocrx_word' id='word_1_9' title='bbox 182 1866 407 1948; x_wconf 75' lang='lat' dir='ltr'>VNA</span> <span class='ocrx_word' id='word_1_10' title='bbox 457 1866 698 1950; x_wconf 80' lang='lat' dir='ltr'>CVM</span> <span class='ocrx_word' id='word_1_11' title='bbox 748 1866 1528 1958; x_wconf 72' lang='lat' dir='ltr'>POSTERIORVM</span> <span class='ocrx_word' id='word_1_12' title='bbox 1577 1867 2028 1949; x_wconf 70' lang='lat' dir='ltr'>ADDITA-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 902 2038 1308 2121; baseline 0.002 -2"><span class='ocrx_word' id='word_1_13' title='bbox 902 2038 1308 2121; x_wconf 78' lang='lat' dir='ltr'>MENTIS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
